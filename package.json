@@ -1,0 +1,18 @@
+{
+  "name": "fava360-server",
+  "version": "1.0.0",
+  "description": "Servidor Node Fava360",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Desarrollo GRUPO Fava",
+  "license": "ISC",
+  "dependencies": {
+    "activedirectory": "^0.7.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1"
+  }
+}
